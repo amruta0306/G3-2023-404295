@@ -1,0 +1,19 @@
+nthread = 0
+nthreadpair = 0
+nthreadtb = 0
+ppenalty_ex = 0
+stacksize: -1 kb
+generating a scoring matrix for nucleotide (dist=200) ... done
+Gap Penalty = -1.53, +0.00, +0.00
+========================================================================= 
+========================================================================= 
+=== 
+=== Alphabet 'i' is unknown.
+=== Please check site 1217 in sequence 2.
+=== 
+=== To make an alignment that has unusual characters (U, @, #, etc), try  
+=== % mafft --anysymbol input > output
+=== 
+========================================================================= 
+========================================================================= 
+Illegal character i
