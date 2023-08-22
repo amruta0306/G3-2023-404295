@@ -1,0 +1,124 @@
+5-8-2023 18:30:22
+5 8 2023 18:30:22: 
+
+
+-----------------START----------------
+5 8 2023 18:30:22: COMMAND
+perl /project/maize_ga1/CViT/cvit.pl -c teosinte.cluster.ini -o both both_feature.gff both_chromosome.gff
+
+5 8 2023 18:30:22: 
+Read gff file both_feature.gff
+5 8 2023 18:30:22: 
+Read gff file both_chromosome.gff
+
+
+5-8-2023 18:40:1
+5 8 2023 18:40:1: 
+
+
+-----------------START----------------
+5 8 2023 18:40:1: COMMAND
+perl /project/maize_ga1/CViT/cvit.pl -c teo.ini -o both both_feature.gff both_chromosome.gff
+
+5 8 2023 18:40:1: 
+Read gff file both_feature.gff
+5 8 2023 18:40:1: 
+Read gff file both_chromosome.gff
+
+
+5-8-2023 19:3:49
+5 8 2023 19:3:49: 
+
+
+-----------------START----------------
+5 8 2023 19:3:49: COMMAND
+perl /project/maize_ga1/CViT/cvit.pl -c teo.ini -o both1 both_feature.gff both_chromosome.gff
+
+5 8 2023 19:3:49: 
+Read gff file both_feature.gff
+5 8 2023 19:3:49: 
+Read gff file both_chromosome.gff
+
+
+5-8-2023 19:11:39
+5 8 2023 19:11:39: 
+
+
+-----------------START----------------
+5 8 2023 19:11:39: COMMAND
+perl /project/maize_ga1/CViT/cvit.pl -c teo1.ini -o Zl both_Zl_feat.gff both_Zl_chr.gff
+
+5 8 2023 19:11:39: 
+Read gff file both_Zl_feat.gff
+5 8 2023 19:11:39: 
+Read gff file both_Zl_chr.gff
+
+
+6-8-2023 11:32:31
+6 8 2023 11:32:31: 
+
+
+-----------------START----------------
+6 8 2023 11:32:31: COMMAND
+perl /project/maize_ga1/CViT/cvit.pl -c teo.ini -o a1 both_feature.gff both_chromosome.gff
+
+6 8 2023 11:32:31: 
+Read gff file both_feature.gff
+6 8 2023 11:32:31: 
+Read gff file both_chromosome.gff
+
+
+6-8-2023 11:33:12
+6 8 2023 11:33:12: 
+
+
+-----------------START----------------
+6 8 2023 11:33:12: COMMAND
+perl /project/maize_ga1/CViT/cvit.pl -c teo.ini -o z1 both_Zl_feat.gff both_Zl_chr.gff
+
+6 8 2023 11:33:12: 
+Read gff file both_Zl_feat.gff
+6 8 2023 11:33:12: 
+Read gff file both_Zl_chr.gff
+
+
+6-8-2023 11:39:15
+6 8 2023 11:39:15: 
+
+
+-----------------START----------------
+6 8 2023 11:39:15: COMMAND
+perl /project/maize_ga1/CViT/cvit.pl -c teo.ini -o a1 both_feature.gff both_chromosome.gff
+
+6 8 2023 11:39:15: 
+Read gff file both_feature.gff
+6 8 2023 11:39:15: 
+Read gff file both_chromosome.gff
+
+
+6-8-2023 11:41:46
+6 8 2023 11:41:46: 
+
+
+-----------------START----------------
+6 8 2023 11:41:46: COMMAND
+perl /project/maize_ga1/CViT/cvit.pl -c teo1.ini -o z1 both_Zl_feat.gff both_Zl_chr.gff
+
+6 8 2023 11:41:46: 
+Read gff file both_Zl_feat.gff
+6 8 2023 11:41:46: 
+Read gff file both_Zl_chr.gff
+
+
+10-8-2023 11:43:23
+10 8 2023 11:43:23: 
+
+
+-----------------START----------------
+
+
+11-8-2023 7:23:18
+11 8 2023 7:23:18: 
+
+
+-----------------START----------------
